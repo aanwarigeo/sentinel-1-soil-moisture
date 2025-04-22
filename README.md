@@ -3,7 +3,7 @@
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.15265174.svg)](https://doi.org/10.5281/zenodo.15265174)
 [![License: GPL 3.0](https://img.shields.io/badge/License-GPL%203.0-blue.svg)](LICENSE)
 [![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://github.com/ellerbrock/open-source-badges/)
-[![Release](https://img.shields.io/badge/release-v1.0-brightgreen.svg)](https://github.com/aanwarigeo/sentinel-1-soil-moisture/releases/tag/v1.0)
+[![Release](https://img.shields.io/badge/release-v1.0-brightgreen.svg)](https://github.com/aanwarigeo/sentinel-1-soil-moisture/releases/tag/1.0)
 
 
 
