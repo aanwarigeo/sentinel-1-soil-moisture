@@ -1,4 +1,4 @@
-# Sentinel-1 Soil Moisture Estimation <img align="right" src="Doc/sentinel-1.jpg" width="300">
+# Sentinel-1 Soil Moisture Estimation <img align="right" src="Doc/sentinel-1.jpg" width="250">
 
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.15265174.svg)](https://doi.org/10.5281/zenodo.15265174)
 [![License: GPL 3.0](https://img.shields.io/badge/License-GPL%203.0-blue.svg)](LICENSE)
