@@ -1,0 +1,12 @@
+.DS_Store
+._*
+
+
+*.Rhistory
+*.RData
+.Rproj.user/
+.Rprofile
+.Renviron
+
+
+*.log
