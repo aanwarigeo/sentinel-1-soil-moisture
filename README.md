@@ -52,7 +52,7 @@ This step is implemented using an [R-script](R-scripts/step2-wet-dry-reference-c
 
 ### 3. Soil Moisture Estimation and Validation
 
-The second [R-script](step3-soil-moisture-estimation.R) handles the estimation of **relative soil moisture (Θ)**, calculated as the ratio of backscatter change to the maximum backscatter change (Δσ). 
+The second [R-script](R-scripts/step3-soil-moisture-estimation.R) handles the estimation of **relative soil moisture (Θ)**, calculated as the ratio of backscatter change to the maximum backscatter change (Δσ). 
 
 This relative soil moisture (Θ) is then **normalized to field measurements** using the **field capacity** and **wilting point** values to derive **volumetric soil moisture (Θ<sub>v</sub>)**.
 
