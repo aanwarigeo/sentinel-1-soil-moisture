@@ -1,12 +1,12 @@
-@software{Sentinel-1-soil-moisture,
-  author       = {Anwarullah Anwari},
-  title        = {Sentinel-1 soil moisture estimation using dual-
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+authors:
+- family-names: "Anwari"
+  given-names: "Anwarullah"
+title: "Sentinel-1 soil moisture estimation using dual-
                    polarization radar vegetation index and change
-                   detection-based approach
-                  },
-  month        = apr,
-  year         = 2025,
-  version      = {1.0},
-  doi          = {10.5281/zenodo.15265174},
-  url          = {https://doi.org/10.5281/zenodo.15265174}, 
-}
+                   detection-based approach"
+version: 1.0
+doi: 10.5281/zenodo.15265174
+date-released: 2025-04-23
+url: "https://doi.org/10.5281/zenodo.15265174"
