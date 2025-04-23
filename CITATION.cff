@@ -1,0 +1,12 @@
+@software{Sentinel-1-soil-moisture,
+  author       = {Anwarullah Anwari},
+  title        = {Sentinel-1 soil moisture estimation using dual-
+                   polarization radar vegetation index and change
+                   detection-based approach
+                  },
+  month        = apr,
+  year         = 2025,
+  version      = {1.0},
+  doi          = {10.5281/zenodo.15265174},
+  url          = {https://doi.org/10.5281/zenodo.15265174}, 
+}
