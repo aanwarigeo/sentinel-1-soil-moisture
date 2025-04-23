@@ -4,7 +4,8 @@ authors:
 title: "Sentinel-1 soil moisture estimation using dual-
                    polarization radar vegetation index and change
                    detection-based approach"
-version: 1.0
+school: {TH Köln}
+year: 2025
+month: Feb
 doi: 10.5281/zenodo.15265174
-date-released: 2025-04-23
 url: "https://doi.org/10.5281/zenodo.15265174"
