@@ -1,8 +1,6 @@
 cff-version: 1.2.0
-message: "If you use this software, please cite it as below."
 authors:
-- family-names: "Anwari"
-  given-names: "Anwarullah"
+- name: "aanwari"
 title: "Sentinel-1 soil moisture estimation using dual-
                    polarization radar vegetation index and change
                    detection-based approach"
