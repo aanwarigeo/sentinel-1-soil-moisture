@@ -37,7 +37,7 @@ For your convenience:
 
 - [Access the Google Earth Engine code for Step 1](https://code.earthengine.google.com/7c1e52eaa51eb2c931434f62b1e3bba6)
 
-- [Visit the Google Earth Engine App](https://ee-eranwari.projects.earthengine.app/view/sentinel-1-polarimetric-explorer-morocco) to filter Sentinel-1 SAR imagery by date, visualize various polarimetric descriptors, and download the processed image collection in GeoTIFF format for additional analysis if you prefer not to use the code.
+<!-- - [Visit the Google Earth Engine App](https://ee-eranwari.projects.earthengine.app/view/sentinel-1-polarimetric-explorer-morocco) to filter Sentinel-1 SAR imagery by date, visualize various polarimetric descriptors, and download the processed image collection in GeoTIFF format for additional analysis if you prefer not to use the code. -->
 
 
 
